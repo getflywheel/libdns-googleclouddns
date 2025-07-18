@@ -7,7 +7,7 @@ toolchain go1.24.0
 require (
 	cloud.google.com/go v0.115.0
 	github.com/libdns/libdns v0.2.2
-	golang.org/x/oauth2 v0.24.0
+	golang.org/x/oauth2 v0.27.0
 	google.golang.org/api v0.185.0
 )
 
